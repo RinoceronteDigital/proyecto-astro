@@ -1,0 +1,8 @@
+# Ignorar archivos temporales
+#*.tmp
+
+# Ignorar directorios de compilación
+/build/
+
+# Ignorar archivos de configuración local
+config.ini
